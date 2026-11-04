@@ -1,0 +1,17 @@
+Correct:
+10 + 10 + 10 + 10 + 10 + 8 + 10 + 10 + 9 + 9 + 10 + 7 + 7 + 9 + 10 = 139
+Wrong:
+2 + 1  + 1 + 3 + 3 + 1 = 11
+
+True Positive - 73
+True Negative - 66
+False Positive - 9
+False Negative - 2 
+
+Total articles - 150
+Correct predictions - 139
+Incorrect predictions - 11
+Accuracy - 92.67%
+Precision - 89.02%
+Recall - 97.33%
+F1-score - 93.59%
